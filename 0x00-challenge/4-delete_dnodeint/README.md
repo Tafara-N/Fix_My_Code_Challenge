@@ -3,7 +3,7 @@
 Please find here my implementation of a Double linked list in C: [source code](https://intranet.alxswe.com/rltoken/x1hyDpdIwxbkpR_4E9PpOQ)
 
 Something is going wrong….
-
+```shell
 $ gcc -Wall -pedantic -Werror -Wextra -std=gnu89 main.c free_dlistint.c print_dlistint.c add_dnodeint_end.c delete_dnodeint_at_index.c -o delete_dnodeint
 $ ./delete_dnodeint 
 0
@@ -67,4 +67,5 @@ $ ./delete_dnodeint
 -----------------
 -----------------
 $
+```
 It doesn’t look right...
