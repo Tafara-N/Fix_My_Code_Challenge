@@ -51,7 +51,7 @@ $ ./1-print_square.js 10
 $
 ```
 
-`./1-print_square.js` 10 should print a square of size 10…
+`./1-print_square.js 10` should print a square of size 10…
 
 **Repo:**
 - GitHub repository: `Fix_My_Code_Challenge`
