@@ -71,7 +71,7 @@ Thank you!
 **Repo:**
 - GitHub repository: `Fix_My_Code_Challenge`
 - Directory: `0x01-challenge`
-- File: [user.py](./user.py/)
+- File: `user.py`
 
 ### 3. Blog access
 
