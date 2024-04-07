@@ -97,8 +97,8 @@ I would like to add a boolean ``online`` for each ``Post`` object with a default
 Thank you!
 
 **Repo:**
-- GitHub repository: ``Fix_My_Code_Challenge``
-- Directory: ``0x01-challenge``
+- GitHub repository: `Fix_My_Code_Challenge`
+- Directory: `0x01-challenge`
 - File: [blog](./blog/)
 
 ### 4. Never leave the office
