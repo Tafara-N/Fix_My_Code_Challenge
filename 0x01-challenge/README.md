@@ -58,7 +58,7 @@ $
 - Directory: `0x01-challenge`
 - File: [status_server/](./status_server/)
 
-## 1. My square
+### 1. My square
 
 I love geometry!
 
