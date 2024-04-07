@@ -102,9 +102,7 @@ Thank you!
 * Directory: ``0x01-challenge``
 * File: [blog](./blog/)
 
-## 4. Never leave the office
-
-#advanced
+### 4. Never leave the office
 
 I’m coming back from 2 weeks of holidays in France and when I arrived at the office, the first words from my marketing co-worker were: “Hi, how was your holiday? by the way, I think I broke the website…”
 
