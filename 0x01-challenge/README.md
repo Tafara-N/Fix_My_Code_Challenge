@@ -81,7 +81,7 @@ Could you take a look and fix it? My code base is [here](https://github.com/holb
 
 Also, when you’re done, could you add a new feature please?
 
-I would like to add a boolean ``online`` for each ``Post`` object with a default value ``true``. With this boolean, I will be able to hide/show some blog posts from the listing. I will also need a way to change this boolean in the ``Post#edit`` route. Could you do this for me?
+I would like to add a boolean `online` for each `Post` object with a default value `true`. With this boolean, I will be able to hide/show some blog posts from the listing. I will also need a way to change this boolean in the `Post#edit` route. Could you do this for me?
 
 Thank you!
 
