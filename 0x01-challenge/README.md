@@ -69,7 +69,7 @@ Look [my square](https://github.com/holbertonschool/0x01-Fix_My_Code_Challenge/b
 - Directory: ``0x01-challenge``
 - File: [square.py](./square.py/)
 
-## 2. Step 2: User model
+### 2. Step 2: User model
 
 I’m running into a serious problem!
 
