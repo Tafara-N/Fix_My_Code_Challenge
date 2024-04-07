@@ -55,8 +55,8 @@ Look [my square](https://github.com/holbertonschool/0x01-Fix_My_Code_Challenge/b
 
 **Repo:**
 - GitHub repository: `Fix_My_Code_Challenge`
-- Directory: ``0x01-challenge``
-- File: [square.py](./square.py/)
+- Directory: `0x01-challenge`
+- File: `square.py`
 
 ### 2. Step 2: User model
 
