@@ -84,7 +84,7 @@ Thank you!
 - Directory: `0x01-challenge`
 - File: [user.py](./user.py/)
 
-## 3. Blog access
+### 3. Blog access
 
 I finished and deployed my Rails blog but people are contacting me because they can’t access any of my blog posts… Weird, it works for me…
 
