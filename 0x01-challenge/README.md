@@ -88,7 +88,7 @@ Thank you!
 **Repo:**
 - GitHub repository: `Fix_My_Code_Challenge`
 - Directory: `0x01-challenge`
-- File: [blog](./blog/)
+- File: `blog`
 
 ### 4. Never leave the office
 
@@ -96,11 +96,11 @@ I’m coming back from 2 weeks of holidays in France and when I arrived at the o
 
 **WHAT???**
 
-Ok, let’s jump on it and [fix it](https://github.com/holbertonschool/0x01-Fix_My_Code_Challenge/tree/master/react-blog)!
+Ok, let’s jump on it and fix [it](https://github.com/holbertonschool/0x01-Fix_My_Code_Challenge/tree/master/react-blog)!
 
 Arf, I have also the pagination to fix… I didn’t have time before my break to look at it…
 
 **Repo:**
 - GitHub repository: `Fix_My_Code_Challenge`
 - Directory: `0x01-challenge`
-- File: [react-blog](./react-blog/)
+- File: `react-blog`
