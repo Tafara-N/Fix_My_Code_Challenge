@@ -28,7 +28,7 @@ Could you look at it and fix it please?
 
 My code is [here](https://intranet.alxswe.com/rltoken/vmpN5vUN4MtMna3lMEjTLA)
 
-```
+```bash
 $ python -m api.v1.app
  * Running on http://0.0.0.0:5000/ (Press CTRL+C to quit)
 ....
